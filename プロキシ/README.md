@@ -41,6 +41,11 @@
 コマンド
 ```npm config set proxy http://<proxy-host>:<proxy-port>```
 
+自分の学校の場合：
+
+```npm config set proxy http://po.cc.ibaraki-ct.ac.jp:3128```
+
+
 プロキシの設定を解除するときは
 ```npm config delete proxy```
 コマンドを使うことで元の状態に戻すことが出来る。
