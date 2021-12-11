@@ -17,6 +17,3 @@
 
 ソフトウェアの通信規格
 
-![](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l7.png)
-![68747470733a2f2f7777772e69746d616e6167652e636f2e6a702f636f6c756d6e2f6f73692d7265666572656e63652d6d6f64656c2f696d672f6f73695f6c372e706e67](https://user-images.githubusercontent.com/82156802/145658135-44644ae4-71dc-4ae2-b8ff-2e467a395652.png)
-
