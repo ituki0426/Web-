@@ -19,25 +19,25 @@
 
 # 第6層：プレゼンテーション層
 
-!()[https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l6.png]
+![OSI](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l6.png)
 
 
 # 第5層：セッション層
 
-!()[https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l5.png]
+![OSI](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l5.png)
 
 # 第4層：トランスポート層
 
-!()[https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l4.png]
+![OSI](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l4.png)
 
 # 第3層：ネットワーク層
 
-!()[https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l3.png]
+![OSI](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l3.png)
 
 # 第2層：データリンク層
 
-!()[https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l2.png]
+![OSI](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l2.png)
 
 # 第1層：物理層
 
-!()[https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l1.png]
+![OSI](https://www.itmanage.co.jp/column/osi-reference-model/img/osi_l1.png)
